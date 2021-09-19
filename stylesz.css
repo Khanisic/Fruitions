@@ -65,14 +65,14 @@ nav ul li a:hover{
     top: 30px;
 }
 .about{
-    width: 450px;
+    width: 650px;
     text-align: center;
     position: relative;
     margin: auto;
     top: 50px;
 }
 .about p{
-
+    font-size: 2.5vh;
 }
 
 /* left and write editor */
