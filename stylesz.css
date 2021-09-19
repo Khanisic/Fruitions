@@ -43,9 +43,6 @@ a i:hover{
 .big:nth-child(3){
     
 }
-nav ul{
-    
-}
 nav ul li{
     padding: 1px;
 }
@@ -72,7 +69,7 @@ nav ul li a:hover{
     text-align: center;
     position: relative;
     margin: auto;
-    top: 120px;
+    top: 50px;
 }
 .about p{
 
@@ -310,7 +307,7 @@ figure .ph {
     padding-top: 10%;
     padding-bottom: 10%;
     position: relative;
-    bottom: 251px;
+    bottom: 300px;
     z-index: 1;
     height: 100%;
     width: 100%;
@@ -319,7 +316,9 @@ figure .ph {
        background-color: #231141;
             text-align: center;
 }
-
+.team-p{
+    font-size: 15px;
+}
 .secondarycolor{
     color: #86F1C0;
 }
@@ -359,7 +358,7 @@ figure .ph-main-3 h3{
 
 figure:hover>.ph {
     transition: 0.7s;
-    transform: translateY(250px);
+    transform: translateY(300px);
 }
 
 .team .team-item {
@@ -370,7 +369,7 @@ figure:hover>.ph {
 .team .team-item figure {
     position: relative;
     overflow: hidden;
-    height: 251px;
+    height: 300px;
 }
 
 img {
@@ -497,7 +496,7 @@ img {
     }
     .about{
         width: 350px;
-        top: 50px;
+        top: 10px;
         font-size: 15px;
         padding: 20px;
     }
