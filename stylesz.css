@@ -479,8 +479,11 @@ img {
     display: flex;
     align-items: center;
 }
-.training-smaller img{
+.quick{
 
+}
+.quick li a{
+    text-decoration: none;
 }
 @media screen and (max-width : 1024px)  {
     .big{
